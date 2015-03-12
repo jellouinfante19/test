@@ -1,5 +1,11 @@
 body{
+<<<<<<< HEAD
 background-color: yellow;
 color: black;
 font-family: "Comic Sans MS",cursive, sans-serif;
+=======
+background-color: blue;
+color: white;
+font-family: "Lucida Console", Monaco, monospace;
+>>>>>>> ab-6l_infante
 }
